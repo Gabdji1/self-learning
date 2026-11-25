@@ -1,0 +1,2 @@
+Jour 2 : revision Bash dans notes.txt
+Commandes revues : pwd ls cd mkdir
